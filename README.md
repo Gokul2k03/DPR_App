@@ -3,8 +3,10 @@ A Doctor and Patient relationship app where patient can book an appointment with
 
 # Software Used: 
 Django <br>
-MySql
-Google Calendar Api
+MySql <br>
+Google Calendar Api <br>
+
+
 
 
 
